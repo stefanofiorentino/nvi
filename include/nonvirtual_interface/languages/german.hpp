@@ -12,5 +12,5 @@ class german : public language {
   std::string do_greetings() const override { return "Hallo"; }
 };
 
-}  // namespace languages
-}  // namespace nonvirtual_interface
+}
+}
